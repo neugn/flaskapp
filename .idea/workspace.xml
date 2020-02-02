@@ -1,12 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fc770d9e-f7e5-49d5-87b4-9503b2e1dad7" name="Default Changelist" comment="">
+    <list default="true" id="fc770d9e-f7e5-49d5-87b4-9503b2e1dad7" name="Default Changelist" comment="initial commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE.html" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld.py" beforeDir="false" afterPath="$PROJECT_DIR$/helloworld.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/run_flask_app.sh" beforeDir="false" afterPath="$PROJECT_DIR$/run_flask_app.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -99,10 +95,10 @@
       <screen x="0" y="0" width="1360" height="738" />
     </state>
     <state x="431" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.738@0.0.1360.738" timestamp="1580621784291" />
-    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1580621003033">
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1580623138078">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.738@0.0.1360.738" timestamp="1580621003033" />
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.738@0.0.1360.738" timestamp="1580623138078" />
     <state width="669" height="198" key="GridCell.Tab.0.bottom" timestamp="1580620504846">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
@@ -119,10 +115,10 @@
       <screen x="0" y="0" width="1360" height="738" />
     </state>
     <state width="669" height="198" key="GridCell.Tab.0.right/0.0.1360.738@0.0.1360.738" timestamp="1580620504846" />
-    <state x="272" y="101" key="Vcs.Push.Dialog.v2" timestamp="1580620263790">
+    <state x="272" y="101" key="Vcs.Push.Dialog.v2" timestamp="1580623153474">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state x="272" y="101" key="Vcs.Push.Dialog.v2/0.0.1360.738@0.0.1360.738" timestamp="1580620263790" />
+    <state x="272" y="101" key="Vcs.Push.Dialog.v2/0.0.1360.738@0.0.1360.738" timestamp="1580623153474" />
     <state x="496" y="232" key="git4idea.rebase.GitRebaseDialog" timestamp="1580620225321">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
