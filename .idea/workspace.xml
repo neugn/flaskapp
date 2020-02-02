@@ -95,10 +95,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1580620310701">
+    <state x="431" y="171" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580621784291">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
-    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.738@0.0.1360.738" timestamp="1580620310701" />
+    <state x="431" y="171" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.738@0.0.1360.738" timestamp="1580621784291" />
+    <state x="334" y="0" key="CommitChangelistDialog2" timestamp="1580621003033">
+      <screen x="0" y="0" width="1360" height="738" />
+    </state>
+    <state x="334" y="0" key="CommitChangelistDialog2/0.0.1360.738@0.0.1360.738" timestamp="1580621003033" />
     <state width="669" height="198" key="GridCell.Tab.0.bottom" timestamp="1580620504846">
       <screen x="0" y="0" width="1360" height="738" />
     </state>
